@@ -143,7 +143,6 @@ pip freeze > requirements.txt
 In settings.py, add your Render URL to ALLOWED_HOSTS:
 
 ALLOWED_HOSTS = ['*']
-Include a view for /api/ to avoid 404 on the homepage.
 
 ## Tech Stack
 
