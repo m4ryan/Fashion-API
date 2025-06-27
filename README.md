@@ -154,5 +154,3 @@ This project was developed for academic purposes as part of the University of Lo
 ## Author
 
 Maryam Ibrahim
-University of London
-CM3035 – Advanced Web Development
